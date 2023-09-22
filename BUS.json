@@ -6,11 +6,11 @@
       "ohh i really like this game 👏",
       "thanks for this game i love it In the nxt uptade add the foot step sounds to make more Realstic "
     ],
-    "rate_comment": true,
+    "rate_comment": false,
     "update_app": false,
-    "activate_ads": true,
+    "activate_ads": false,
     "activate_banner": "off",
-    "activate_inter": "true",
+    "activate_inter": "false",
     "network": "is",
     "one_signal": "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
     "unity_game_id": "5103649",
@@ -40,17 +40,17 @@
     "ad_int_interval": 4,
     "score_rating_reward": 3,
     "orientation": "portrait",
-    "game_name": "The Grimace Shake ",
-    "game_cover": "https://i.postimg.cc/3rbyP9ch/mcdonalds-grimace.gif",
-    "game_gif": "https://i.postimg.cc/KY5K10mJ/xnBtlD.gif",
-    "game_link": "https://grimacesbirthday.com/",
+    "game_name": "Bus Basuri Lintas ",
+    "game_cover": "https://i.postimg.cc/FHfDdpsL/bis-mudik-2023.gif",
+    "game_gif": "https://i.postimg.cc/FHfDdpsL/bis-mudik-2023.gif",
+    "game_link": "https://play.gamepix.com/bus-driver-simulator/embed",
     "update_app_activate": "false",
     "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
-    "show_notfication": true,
+    "show_notfication": false,
     "Counter": "400000",
     "notification_title": "check our new game",
     "notification_text": "woow Grimace Shake scale birthday is here try it now",
-    "showrate": true
+    "showrate": false
   },
   "more": [
     {
