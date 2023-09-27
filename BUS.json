@@ -336,157 +336,160 @@
       "img": "https://i.postimg.cc/nzR8gNPB/image.png"
     }
   ],
-  "quizquestions": [
+"quizquestions": [
   {
     "questions": [
       {
-        "question": "What is the name of the character with a purple, blob-like appearance from McDonald's?"
+        "question": "What is the name of the Italian automaker known for its iconic sports cars like the 488 GTB?"
       },
       {
-        "question": "What color is Grimace from McDonald's?"
+        "question": "What color is often associated with sports cars and speed?"
       },
       {
-        "question": "Which popular fast-food chain is Grimace associated with?"
+        "question": "Which car brand produces the Mustang and the F-150?"
       },
       {
-        "question": "In McDonald's, what role does Grimace usually play?"
+        "question": "In the automotive world, what does SUV stand for?"
       },
       {
-        "question": "What is the shape of Grimace's body?"
+        "question": "What is the shape of a classic Volkswagen Beetle?"
       },
       {
-        "question": "What is the main facial feature of Grimace from McDonald's?"
+        "question": "What feature of a car is responsible for reducing engine noise?"
       },
       {
-        "question": "What is Grimace's personality like?"
+        "question": "What is the term used for a car that can go from 0 to 60 miles per hour in a very short time?"
       },
       {
-        "question": "What is the name of Grimace's original appearance before his redesign?"
+        "question": "Which car company is known for its luxury vehicles and the iconic three-pointed star logo?"
       },
       {
-        "question": "Which other character from McDonald's is Grimace often seen with?"
+        "question": "What is the primary purpose of a spoiler on a sports car?"
       },
       {
-        "question": "What is the primary purpose of Grimace's character in McDonald's marketing?"
+        "question": "What is the most common type of transmission found in cars today?"
       }
     ],
     "answers": [
       {
-        "answer": "Grimace"
+        "answer": "Ferrari"
       },
       {
-        "answer": "Purple"
+        "answer": "Red"
       },
       {
-        "answer": "McDonald's"
+        "answer": "Ford"
       },
       {
-        "answer": "A lovable and clumsy character"
+        "answer": "Sports Utility Vehicle"
       },
       {
-        "answer": "Blob-like"
+        "answer": "Beetle-shaped"
       },
       {
-        "answer": "Large mouth"
+        "answer": "Muffler"
       },
       {
-        "answer": "Friendly and playful"
+        "answer": "Fast acceleration"
       },
       {
-        "answer": "Evil Grimace"
+        "answer": "Mercedes-Benz"
       },
       {
-        "answer": "Ronald McDonald"
+        "answer": "Improved aerodynamics"
       },
       {
-        "answer": "To entertain and engage children"
+        "answer": "Automatic transmission"
       }
     ],
     "options": [
       {
-        "option": "Hamburglar"
+        "option": "Ferrari"
       },
       {
-        "option": "Grimace"
+        "option": "Porsche"
       },
       {
-        "option": "Ronald McDonald"
-      },
-      {
-        "option": "Purple"
-      },
-      {
-        "option": "Green"
+        "option": "Lamborghini"
       },
       {
         "option": "Red"
       },
       {
-        "option": "Burger King"
+        "option": "Blue"
       },
       {
-        "option": "Wendy's"
+        "option": "Yellow"
       },
       {
-        "option": "McDonald's"
+        "option": "Ford"
       },
       {
-        "option": "A spokesperson for healthy eating"
+        "option": "Chevrolet"
       },
       {
-        "option": "A lovable and clumsy character"
+        "option": "Dodge"
       },
       {
-        "option": "A villainous character"
+        "option": "Sports Utility Vehicle"
       },
       {
-        "option": "Blob-like"
+        "option": "Sports Unleashed Vehicle"
       },
       {
-        "option": "Square"
+        "option": "Super Urban Van"
       },
       {
-        "option": "Triangle"
+        "option": "Beetle-shaped"
       },
       {
-        "option": "Eyes"
+        "option": "Box-shaped"
       },
       {
-        "option": "Large mouth"
+        "option": "Triangle-shaped"
       },
       {
-        "option": "Sharp teeth"
+        "option": "Muffler"
       },
       {
-        "option": "Friendly and playful"
+        "option": "Turbocharger"
       },
       {
-        "option": "Serious and strict"
+        "option": "Spoiler"
       },
       {
-        "option": "Happy Meal"
+        "option": "Fast acceleration"
       },
       {
-        "option": "Evil Grimace"
+        "option": "Smooth ride"
       },
       {
-        "option": "Original Grimace"
+        "option": "Mercedes-Benz"
       },
       {
-        "option": "Burger"
+        "option": "BMW"
       },
       {
-        "option": "Birdie"
+        "option": "Audi"
       },
       {
-        "option": "Ronald McDonald"
+        "option": "Improved aerodynamics"
       },
       {
-        "option": "To entertain and engage children"
+        "option": "Better fuel economy"
       },
       {
-        "option": "To promote healthy eating choices"
-      }
+        "option": "Enhanced visibility"
+      },
+      {
+        "option": "Manual transmission"
+      },
+      {
+        "option": "Automatic transmission"
+      },
+      {
+        "option": "Continuously Variable Transmission (CVT)"
+   }
     ]
 
 
