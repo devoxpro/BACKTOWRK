@@ -167,7 +167,7 @@
       "active": "false",
       "active_reward": "false",
       "name": "Guide",
-      "ico": "https://i.ibb.co/D1mhhb4/scartchbtn.png",
+      "ico": "https://i.postimg.cc/JnL8yhrv/image.png",
       "bg": "#3F51B5"
     },
     {
@@ -202,21 +202,21 @@
       "active": "true",
       "active_reward": "false",
       "name": "Questions",
-      "ico": "https://i.ibb.co/3Cm3cw0/btnquestion.png",
+      "ico": "https://i.postimg.cc/W3LZh0JV/Writing-Notes.png",
       "bg": "#ffffff"
     },
     {
       "active": "true",
       "active_reward": "true",
       "name": "Wallpapers",
-      "ico": "https://i.ibb.co/hdt8Hct/btnwall.png",
+      "ico": "https://i.postimg.cc/nLgvt613/image.png",
       "bg": "#ffffff"
     },
     {
       "active": "true",
       "active_reward": "false",
       "name": "Scratch",
-      "ico": "https://i.ibb.co/r4mhcrK/scartch.png",
+      "ico": "https://i.postimg.cc/qBXCmtWb/image.png",
       "bg": "#ffffff"
     },
     {
