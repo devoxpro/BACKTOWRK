@@ -178,14 +178,14 @@
       "bg": "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
     },
     {
-      "active": "true",
-      "active_reward": "true",
+      "active": "false",
+      "active_reward": "false",
       "name": "Spinner",
       "ico": "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
       "bg": "#ffffff"
     },
     {
-      "active": "true",
+      "active": "false",
       "active_reward": "false",
       "name": "Quiz",
       "ico": "https://i.ibb.co/vkNYFxs/quize.png",
@@ -206,8 +206,8 @@
       "bg": "#ffffff"
     },
     {
-      "active": "true",
-      "active_reward": "true",
+      "active": "false",
+      "active_reward": "false",
       "name": "Wallpapers",
       "ico": "https://i.postimg.cc/nLgvt613/image.png",
       "bg": "#ffffff"
@@ -220,7 +220,7 @@
       "bg": "#ffffff"
     },
     {
-      "active": "true",
+      "active": "false",
       "active_reward": "false",
       "name": "Games",
       "ico": "https://i.ibb.co/m0zZ06V/gamebtn.png",
