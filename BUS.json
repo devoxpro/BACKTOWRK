@@ -1,16 +1,16 @@
 {
   "ads": {
     "comment": [
-      "Great game! It's really a good game City Coach Bus 3d ",
+      "Great game! It's really a good game The Grimace Shake ",
       "woow this is the best 👍",
       "ohh i really like this game 👏",
       "thanks for this game i love it In the nxt uptade add the foot step sounds to make more Realstic "
     ],
-    "rate_comment": false,
+    "rate_comment": true,
     "update_app": false,
-    "activate_ads": false,
+    "activate_ads": true,
     "activate_banner": "off",
-    "activate_inter": "false",
+    "activate_inter": "true",
     "network": "is",
     "one_signal": "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
     "unity_game_id": "5103649",
@@ -29,7 +29,7 @@
     "fan_native": "2455443151275039_2455451584607529",
     "fan_int": "2455443151275039_2455451494607538",
     "fan_rewarded": "2455443151275039_2455451697940851",
-    "iron_key": "1be3a5d5d",
+    "iron_key": "1adcab7c5",
     "iron_ban": "DefaultBanner",
     "iron_int": "DefaultInterstitial",
     "iron_rewarded": "DefaultRewardedVideo",
@@ -39,17 +39,17 @@
     "ad_game_minutes": 1,
     "ad_int_interval": 4,
     "score_rating_reward": 3,
-    "orientation": "landscape",
-    "game_name": "Bus Basuri Lintas ",
-    "game_cover": "https://i.postimg.cc/FHfDdpsL/bis-mudik-2023.gif",
-    "game_gif": "https://i.postimg.cc/FHfDdpsL/bis-mudik-2023.gif",
-    "game_link": "https://play.gamepix.com/bus-driver-simulator/embed",
+    "orientation": "portrait",
+    "game_name": "The Grimace Shake ",
+    "game_cover": "https://i.postimg.cc/3rbyP9ch/mcdonalds-grimace.gif",
+    "game_gif": "https://i.postimg.cc/KY5K10mJ/xnBtlD.gif",
+    "game_link": "https://grimacesbirthday.com/",
     "update_app_activate": "false",
     "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
-    "show_notfication": false,
+    "show_notfication": true,
     "Counter": "400000",
-    "notification_title": "check our new game City Coach Bus 3d",
-    "notification_text": "woow City Coach Bus 3d is here try it now",
+    "notification_title": "check our new game",
+    "notification_text": "woow Grimace Shake scale birthday is here try it now",
     "showrate": true
   },
   "more": [
@@ -167,7 +167,7 @@
       "active": "false",
       "active_reward": "false",
       "name": "Guide",
-      "ico": "https://i.postimg.cc/JnL8yhrv/image.png",
+      "ico": "https://i.ibb.co/D1mhhb4/scartchbtn.png",
       "bg": "#3F51B5"
     },
     {
@@ -178,14 +178,14 @@
       "bg": "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
     },
     {
-      "active": "false",
-      "active_reward": "false",
+      "active": "true",
+      "active_reward": "true",
       "name": "Spinner",
       "ico": "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
       "bg": "#ffffff"
     },
     {
-      "active": "false",
+      "active": "true",
       "active_reward": "false",
       "name": "Quiz",
       "ico": "https://i.ibb.co/vkNYFxs/quize.png",
@@ -202,21 +202,21 @@
       "active": "true",
       "active_reward": "false",
       "name": "Questions",
-      "ico": "https://i.postimg.cc/W3LZh0JV/Writing-Notes.png",
+      "ico": "https://i.ibb.co/3Cm3cw0/btnquestion.png",
       "bg": "#ffffff"
     },
     {
-      "active": "false",
-      "active_reward": "false",
+      "active": "true",
+      "active_reward": "true",
       "name": "Wallpapers",
-      "ico": "https://i.postimg.cc/nLgvt613/image.png",
+      "ico": "https://i.ibb.co/hdt8Hct/btnwall.png",
       "bg": "#ffffff"
     },
     {
       "active": "true",
       "active_reward": "false",
       "name": "Scratch",
-      "ico": "https://i.postimg.cc/qBXCmtWb/image.png",
+      "ico": "https://i.ibb.co/r4mhcrK/scartch.png",
       "bg": "#ffffff"
     },
     {
@@ -290,20 +290,39 @@
 ],
   "games": [
     {
-      "name": "Bus-parking-3d ",
-      "ico": "https://i.postimg.cc/YCZcLzfh/KXDHKDSH.jpg",
-      "link": "https://games.cdn.famobi.com/html5games/b/bus-parking-3d/v080/?fg_domain=play.famobi.com&fg_aid=A-IOCJF&fg_uid=0a709615-79da-41b4-8d52-a0034b02435b&fg_pid=725ca73f-aa33-4436-bdac-df8e93e343ae&fg_beat=530&original_ref=",
+      "name": "The Grimace Shake  Game ",
+      "ico": "https://i.postimg.cc/d3w4Z0Py/3-1.png",
+      "link": "https://grimacesbirthday.com/",
       "cat": "Overall",
       "orientation": "1"
     },
     {
-      "name": "BUS PARKING 3D",
-      "ico": "https://i.postimg.cc/6pV15pWk/image.png",
-      "link": "https://html5.gamedistribution.com/6a080fcedf9f4772b96e2a4f460f6acf/",
+      "name": "The Grimace Shake  Game puzzle",
+      "ico": "https://i.postimg.cc/nhmx1d9G/3-1.png",
+      "link": "https://html5.gamemonetize.co/15aj43ai1h4joeaciyclco8n1tvbcibv/?gamedomain=",
       "cat": "puzzle",
       "orientation": "0"
     },
     {
+      "name": "The Grimace Shake  Game gun",
+      "ico": "https://i.postimg.cc/gjRVkFBT/download.jpg",
+      "link": "https://game.enjoy4fun.com/gobble/v1/index.html",
+      "cat": "Soccer",
+      "orientation": "0"
+    },
+    {
+      "name": "The Grimace monster adventure",
+      "ico": "https://i.postimg.cc/g2jM6PKB/3-1.png",
+      "link": "https://play.gamepix.com/purple-monster-adventure/embed?sid=e4515",
+      "cat": "Arcade",
+      "orientation": "0"
+    },
+    {
+      "name": "The Grimace Shake  Adventure",
+      "ico": "https://i.postimg.cc/htLkpnm4/3-1.png",
+      "link": "https://schoolpass247.github.io/cz.html?n=monster-adventure",
+      "cat": "Arcade",
+      "orientation": "0"
     }
   ],
   "scratch": [
@@ -317,160 +336,157 @@
       "img": "https://i.postimg.cc/nzR8gNPB/image.png"
     }
   ],
-"quizquestions": [
+  "quizquestions": [
   {
     "questions": [
       {
-        "question": "What is the name of the Italian automaker known for its iconic sports cars like the 488 GTB?"
+        "question": "What is the name of the character with a purple, blob-like appearance from McDonald's?"
       },
       {
-        "question": "What color is often associated with sports cars and speed?"
+        "question": "What color is Grimace from McDonald's?"
       },
       {
-        "question": "Which car brand produces the Mustang and the F-150?"
+        "question": "Which popular fast-food chain is Grimace associated with?"
       },
       {
-        "question": "In the automotive world, what does SUV stand for?"
+        "question": "In McDonald's, what role does Grimace usually play?"
       },
       {
-        "question": "What is the shape of a classic Volkswagen Beetle?"
+        "question": "What is the shape of Grimace's body?"
       },
       {
-        "question": "What feature of a car is responsible for reducing engine noise?"
+        "question": "What is the main facial feature of Grimace from McDonald's?"
       },
       {
-        "question": "What is the term used for a car that can go from 0 to 60 miles per hour in a very short time?"
+        "question": "What is Grimace's personality like?"
       },
       {
-        "question": "Which car company is known for its luxury vehicles and the iconic three-pointed star logo?"
+        "question": "What is the name of Grimace's original appearance before his redesign?"
       },
       {
-        "question": "What is the primary purpose of a spoiler on a sports car?"
+        "question": "Which other character from McDonald's is Grimace often seen with?"
       },
       {
-        "question": "What is the most common type of transmission found in cars today?"
+        "question": "What is the primary purpose of Grimace's character in McDonald's marketing?"
       }
     ],
     "answers": [
       {
-        "answer": "Ferrari"
+        "answer": "Grimace"
       },
       {
-        "answer": "Red"
+        "answer": "Purple"
       },
       {
-        "answer": "Ford"
+        "answer": "McDonald's"
       },
       {
-        "answer": "Sports Utility Vehicle"
+        "answer": "A lovable and clumsy character"
       },
       {
-        "answer": "Beetle-shaped"
+        "answer": "Blob-like"
       },
       {
-        "answer": "Muffler"
+        "answer": "Large mouth"
       },
       {
-        "answer": "Fast acceleration"
+        "answer": "Friendly and playful"
       },
       {
-        "answer": "Mercedes-Benz"
+        "answer": "Evil Grimace"
       },
       {
-        "answer": "Improved aerodynamics"
+        "answer": "Ronald McDonald"
       },
       {
-        "answer": "Automatic transmission"
+        "answer": "To entertain and engage children"
       }
     ],
     "options": [
       {
-        "option": "Ferrari"
+        "option": "Hamburglar"
       },
       {
-        "option": "Porsche"
+        "option": "Grimace"
       },
       {
-        "option": "Lamborghini"
+        "option": "Ronald McDonald"
+      },
+      {
+        "option": "Purple"
+      },
+      {
+        "option": "Green"
       },
       {
         "option": "Red"
       },
       {
-        "option": "Blue"
+        "option": "Burger King"
       },
       {
-        "option": "Yellow"
+        "option": "Wendy's"
       },
       {
-        "option": "Ford"
+        "option": "McDonald's"
       },
       {
-        "option": "Chevrolet"
+        "option": "A spokesperson for healthy eating"
       },
       {
-        "option": "Dodge"
+        "option": "A lovable and clumsy character"
       },
       {
-        "option": "Sports Utility Vehicle"
+        "option": "A villainous character"
       },
       {
-        "option": "Sports Unleashed Vehicle"
+        "option": "Blob-like"
       },
       {
-        "option": "Super Urban Van"
+        "option": "Square"
       },
       {
-        "option": "Beetle-shaped"
+        "option": "Triangle"
       },
       {
-        "option": "Box-shaped"
+        "option": "Eyes"
       },
       {
-        "option": "Triangle-shaped"
+        "option": "Large mouth"
       },
       {
-        "option": "Muffler"
+        "option": "Sharp teeth"
       },
       {
-        "option": "Turbocharger"
+        "option": "Friendly and playful"
       },
       {
-        "option": "Spoiler"
+        "option": "Serious and strict"
       },
       {
-        "option": "Fast acceleration"
+        "option": "Happy Meal"
       },
       {
-        "option": "Smooth ride"
+        "option": "Evil Grimace"
       },
       {
-        "option": "Mercedes-Benz"
+        "option": "Original Grimace"
       },
       {
-        "option": "BMW"
+        "option": "Burger"
       },
       {
-        "option": "Audi"
+        "option": "Birdie"
       },
       {
-        "option": "Improved aerodynamics"
+        "option": "Ronald McDonald"
       },
       {
-        "option": "Better fuel economy"
+        "option": "To entertain and engage children"
       },
       {
-        "option": "Enhanced visibility"
-      },
-      {
-        "option": "Manual transmission"
-      },
-      {
-        "option": "Automatic transmission"
-      },
-      {
-        "option": "Continuously Variable Transmission (CVT)"
-   }
+        "option": "To promote healthy eating choices"
+      }
     ]
 
 
